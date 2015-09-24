@@ -1,0 +1,1 @@
+Auto correction filter for jAlbum. Can be used both as an image tool an in batch mode
